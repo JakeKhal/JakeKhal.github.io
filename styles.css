@@ -34,13 +34,14 @@ body {
 
 .nav-links a {
   margin-left: 1.5rem;
-  text-decoration: none;
-  color: #94a3b8;
+  text-decoration: underline;
+  color: white;
   font-size: 1.2rem;
 }
 
 .nav-links a:hover {
-  color: #22d3ee;
+  color: white;
+  text-decoration-thickness: 2px;
 }
 
 .section {
